@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cardápio do Restaurante</title>
+    <style>
+        body {
+            font-family: 'Poppins', Arial, sans-serif;
+            background-color: #f8f8f8;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            color: #ff6f61;
+            margin-bottom: 20px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+
+        #cardapio {
+            width: 90%;
+            max-width: 800px;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 15px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+        }
+
+        .prato {
+            margin-bottom: 30px;
+            padding: 20px;
+            border-radius: 10px;
+            background-color: #fff;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .prato:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+        }
+
+        .prato h2 {
+            font-size: 1.8rem;
+            color: #333;
+            margin-bottom: 10px;
+            font-weight: 600;
+        }
+
+        .ingredientes {
+            margin-left: 20px;
+            color: #777;
+            font-size: 1rem;
+            line-height: 1.6;
+        }
+
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 2rem;
+            }
+
+            .prato h2 {
+                font-size: 1.5rem;
+            }
+
+            .ingredientes {
+                font-size: 0.9rem;
+            }
+        }
+    </style>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <h1>Cardápio do Restaurante</h1>
+    <div id="cardapio"></div>
+
+    <script>
+        // Faz uma requisição à API para buscar os pratos
+        fetch('http://localhost:5000/api/pratos')
+            .then(response => response.json())
+            .then(data => {
+                const cardapio = document.getElementById('cardapio');
+                data.forEach(prato => {
+                    const divPrato = document.createElement('div');
+                    divPrato.classList.add('prato');
+
+                    const nomePrato = document.createElement('h2');
+                    nomePrato.textContent = prato.nome;
+
+                    const ingredientesPrato = document.createElement('p');
+                    ingredientesPrato.classList.add('ingredientes');
+                    ingredientesPrato.textContent = `Ingredientes: ${prato.ingredientes}`;
+
+                    divPrato.appendChild(nomePrato);
+                    divPrato.appendChild(ingredientesPrato);
+                    cardapio.appendChild(divPrato);
+                });
+            })
+            .catch(error => console.error('Erro ao buscar pratos:', error));
+    </script>
+</body>
+</html>

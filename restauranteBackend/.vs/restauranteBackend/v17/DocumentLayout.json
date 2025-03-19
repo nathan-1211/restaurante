@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\T-GAMER\\Desktop\\restaurante\\restauranteBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\T-GAMER\\Desktop\\restaurante\\restauranteBackend\\restauranteBackend\\Controllers\\PratosController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:restauranteBackend\\Controllers\\PratosController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\T-GAMER\\Desktop\\restaurante\\restauranteBackend\\restauranteBackend\\Models\\Prato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:restauranteBackend\\Models\\Prato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\T-GAMER\\Desktop\\restaurante\\restauranteBackend\\restauranteBackend\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:restauranteBackend\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\T-GAMER\\Desktop\\restaurante\\restauranteBackend\\restauranteBackend\\restauranteBackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:restauranteBackend\\restauranteBackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\T-GAMER\\Desktop\\restaurante\\restauranteBackend\\restauranteBackend\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:restauranteBackend\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\T-GAMER\\Desktop\\restaurante\\restauranteBackend\\restauranteBackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:restauranteBackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\T-GAMER\\Desktop\\restaurante\\restauranteBackend\\restauranteBackend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "restauranteBackend\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\T-GAMER\\Desktop\\restaurante\\restauranteBackend\\restauranteBackend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "restauranteBackend\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-12T19:10:50.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\T-GAMER\\Desktop\\restaurante\\restauranteBackend\\restauranteBackend\\Program.cs",
+              "RelativeDocumentMoniker": "restauranteBackend\\Program.cs",
+              "ToolTip": "C:\\Users\\T-GAMER\\Desktop\\restaurante\\restauranteBackend\\restauranteBackend\\Program.cs",
+              "RelativeToolTip": "restauranteBackend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T19:09:16.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PratosController.cs",
+              "DocumentMoniker": "C:\\Users\\T-GAMER\\Desktop\\restaurante\\restauranteBackend\\restauranteBackend\\Controllers\\PratosController.cs",
+              "RelativeDocumentMoniker": "restauranteBackend\\Controllers\\PratosController.cs",
+              "ToolTip": "C:\\Users\\T-GAMER\\Desktop\\restaurante\\restauranteBackend\\restauranteBackend\\Controllers\\PratosController.cs",
+              "RelativeToolTip": "restauranteBackend\\Controllers\\PratosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T18:47:38.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Prato.cs",
+              "DocumentMoniker": "C:\\Users\\T-GAMER\\Desktop\\restaurante\\restauranteBackend\\restauranteBackend\\Models\\Prato.cs",
+              "RelativeDocumentMoniker": "restauranteBackend\\Models\\Prato.cs",
+              "ToolTip": "C:\\Users\\T-GAMER\\Desktop\\restaurante\\restauranteBackend\\restauranteBackend\\Models\\Prato.cs",
+              "RelativeToolTip": "restauranteBackend\\Models\\Prato.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T18:44:51.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "restauranteBackend.csproj",
+              "DocumentMoniker": "C:\\Users\\T-GAMER\\Desktop\\restaurante\\restauranteBackend\\restauranteBackend\\restauranteBackend.csproj",
+              "RelativeDocumentMoniker": "restauranteBackend\\restauranteBackend.csproj",
+              "ToolTip": "C:\\Users\\T-GAMER\\Desktop\\restaurante\\restauranteBackend\\restauranteBackend\\restauranteBackend.csproj",
+              "RelativeToolTip": "restauranteBackend\\restauranteBackend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-12T18:44:04.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\T-GAMER\\Desktop\\restaurante\\restauranteBackend\\restauranteBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "restauranteBackend\\appsettings.json",
+              "ToolTip": "C:\\Users\\T-GAMER\\Desktop\\restaurante\\restauranteBackend\\restauranteBackend\\appsettings.json",
+              "RelativeToolTip": "restauranteBackend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-12T18:30:32.963Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
